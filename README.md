@@ -9,3 +9,6 @@ and deployed in  heroku
 
 
 ![image](https://github.com/Sathvik145/ipl-win-predictor/assets/92632503/81e7698f-5993-44e2-99d5-b09ba58f3d30)
+ example prediction
+
+ ![image](https://github.com/Sathvik145/ipl-win-predictor/assets/92632503/7682a2a6-6fdd-43df-a4f3-e41ddec80c32)
